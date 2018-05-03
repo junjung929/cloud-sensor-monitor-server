@@ -11,3 +11,5 @@ script.py
 /.idea
 
 *.log
+
+package-lock.json
