@@ -1,0 +1,13 @@
+/node_modules
+config
+bundle.js
+npm-debug.log
+.DS_Store
+
+script.py
+
+# IntelliJ
+*.iml
+/.idea
+
+*.log
